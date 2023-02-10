@@ -30,8 +30,8 @@ Image
 
 Object in JSON
 
-'''
+```JSON
   "firstName": "Huy",
   "lastName": "Dozen",
   "age": 23
-'''
+```
